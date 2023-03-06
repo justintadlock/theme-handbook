@@ -5,7 +5,7 @@ This document is an in-progress review of the current WordPress [Theme Handbook]
 - [Index/Landing Page](/_notes/analysis-index.md)
 - [Getting Started](/_notes/analysis-getting-started.md)
 - [Theme Basics](/_notes/analysis-theme-basics.md)
-- Block themes
+- [Block themes](/_notes/analysis-block-themes.md)
 - Classic themes
 - Accessibility
 - Theme Security
