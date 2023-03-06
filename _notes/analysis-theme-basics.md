@@ -97,6 +97,8 @@ This is a long page, and the template hierarchy is exactly the same for both cla
 
 "Both" is used to refer to three things instead of two in the intro.
 
+This page doesn't include any information on prefixing/namespacing. It'd be a perfect opportunity to do so and to consistently use this as an example throughout the rest of the handbook.
+
 ### [What is functions.php?](https://developer.wordpress.org/themes/basics/theme-functions/#what-is-functions-php)
 
 This statement is factually incorrect:
